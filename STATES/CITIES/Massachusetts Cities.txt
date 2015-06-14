@@ -1,0 +1,12 @@
+41.93  -71.30  Attleboro  02703
+42.37  -71.03  Boston  02108
+41.73  -71.12  Fall River  02720
+42.80  -71.05  Haverhill  01830
+42.72  -71.12  Lawrence  01840
+41.25  -70.07  Nantucket  02554
+41.68  -70.97  New Bedford  02740
+42.46  -73.28  Pittsfield  01201
+41.90  -70.54  Plymouth  02345
+42.51  -70.91  Salem  01970
+42.10  -72.59  Springfield  01101
+42.27  -71.87  Worcester  01601

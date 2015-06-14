@@ -1,0 +1,10 @@
+44.37  -100.04  Pierre  57501
+43.70  -98.06  Mitchell  57301
+45.48  -98.54  Aberdeen  57401
+44.92  -97.17  Watertown  57201
+44.30  -96.87  Brookings  57006
+43.60  -96.71  Sioux Falls  57101
+43.16  -102.36  Wounded Knee  57794
+44.07  -103.21  Rapid City  57701
+44.27  -103.67  Deadwood  57732
+42.89  -97.45  Yankton  57078

@@ -1,0 +1,13 @@
+40.75  -74.00  New York  10001
+44.23  -73.99  Lake Placid  12946
+43.97  -75.91  Watertown  13601
+43.17  -77.60  Rochester  14602
+43.08  -78.83  North Tonawanda  14120
+42.08  -79.26  Jamestown  14701
+42.19  -75.88  Binghamton  13901
+42.65  -73.75  Albany  12201
+42.97  -74.13  Amsterdam  12010
+42.92  -76.55  Auburn  13021
+41.93  -74.06  Kingston  12401
+41.03  -73.77  White Plains  10601
+40.82  -73.92  Bronx  10451

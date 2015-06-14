@@ -1,0 +1,13 @@
+34.50  -82.72  Anderson  29621
+32.90  -80.03  Charleston  29401
+33.95  -81.12  Columbia  29201
+34.18  -79.72  Florence  29501
+34.85  -82.35  Greenville  29601
+33.68  -78.93  Myrtle Beach  29572
+33.82  -78.72  North Myrtle Beach  29582
+34.92  -81.96  Spartanburg  29301
+33.21  -81.35  Barnwell  29812
+33.65  -81.68  Aiken  29801
+33.01  -81.40  Allendale  29810
+34.57  -80.75  Heath Springs  29058
+33.40  -81.40  Williston  29853

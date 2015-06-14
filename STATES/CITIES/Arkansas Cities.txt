@@ -1,0 +1,9 @@
+35.97  -89.95  Blytheville  72315
+36.00  -94.17  Fayetteville  72701
+35.33  -94.37  Fort Smith  72901
+35.83  -90.65  Jonesboro  72401
+34.17  -91.93  Pine Bluff  71601
+36.18  -94.13  Springdale  72762
+33.45  -94.00  Texarkana  71854
+34.91  -92.16  Jacksonville  72076
+34.75  -92.28  Little Rock  72201

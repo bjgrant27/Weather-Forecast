@@ -1,0 +1,11 @@
+39.22  -106.87  Aspen  81611
+38.82  -104.72  Colorado Springs  80840
+39.75  -104.87  Denver  80002
+39.57  -104.83  Englewood  80110
+40.58  -105.08  Fort Collins  80521
+39.12  -108.53  Grand Junction  81501
+40.43  -104.63  Greeley  80631
+38.55  -106.93  Gunnison  81230
+38.28  -104.52  Pueblo  81001
+37.44  -102.62  Springfield  81073
+37.15  -107.91  Durango  81301

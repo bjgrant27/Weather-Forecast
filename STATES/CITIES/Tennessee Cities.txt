@@ -1,0 +1,10 @@
+36.16  -86.78  Nashville  37201
+36.59  -87.31  Clarksville  37040
+35.59  -88.86  Jackson  38301
+35.15  -90.05  Memphis  37501
+35.05  -85.31  Chattanooga  37401
+35.08  -84.88  Cleveland  37311
+36.55  -82.18  Bristol  37620
+35.76  -86.40  Murfreesboro  37127
+35.96  -83.92  Knoxville  37901
+36.34  -82.33  Johnson City  37601

@@ -1,0 +1,10 @@
+38.35  -81.63  Charleston  25301
+38.37  -82.41  Huntington  25701
+40.42  -80.56  Weirton  26062
+40.07  -80.65  Wheeling  26003
+39.63  -80.09  Morgantown  26501
+39.47  -80.06  Fairmont  26554
+39.28  -81.51  Parkersburg  26101
+39.29  -80.38  Clarksburg  26301
+37.82  -81.24  Beckley  25801
+37.85  -80.25  White Sulphur Springs  24986

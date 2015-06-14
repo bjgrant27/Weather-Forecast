@@ -1,0 +1,10 @@
+37.23  -89.58  Cape Girardeau  63701
+38.90  -92.24  Columbia  65201
+39.71  -91.42  Hannibal  63401
+39.11  -94.41  Independence  64050
+38.50  -92.15  Jefferson City  65101
+37.17  -94.50  Joplin  64801
+38.86  -90.45  Saint Charles  63301
+39.77  -94.84  Saint Joseph  64501
+38.75  -90.37  Saint Louis  63101
+37.23  -93.38  Springfield  65801

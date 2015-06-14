@@ -1,0 +1,11 @@
+37.58  -77.53  Richmond  23173
+36.85  -76.09  Virginia Beach  23450
+37.02  -76.44  Hampton  23605
+36.66  -79.49  Danville  24540
+36.69  -82.21  Bristol  24201
+36.81  -76.37  Portsmouth  23701
+37.35  -79.16  Lynchburg  24501
+37.26  -80.43  Blacksburg  24060
+38.89  -77.10  Arlington  22201
+38.82  -77.06  Alexandria  22301
+38.30  -77.49  Fredericksburg  22401

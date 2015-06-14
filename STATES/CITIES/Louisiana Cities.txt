@@ -1,0 +1,14 @@
+31.38  -92.30  Alexandria  71301
+30.53  -91.15  Baton Rouge  70801
+30.74  -89.88  Bogalusa  70427
+29.24  -89.99  Grand Isle  70358
+29.57  -90.65  Houma  70360
+30.20  -92.00  Lafayette  70500
+30.12  -93.22  Lake Charles  70601
+32.52  -92.05  Monroe  71201
+29.70  -91.20  Morgan City  70380
+30.03  -91.88  New Iberia  70560
+29.98  -90.25  New Orleans  70112
+32.52  -93.75  Shreveport  71101
+30.18  -93.41  Sulphur  70663
+29.20  -89.39  Venice  70091

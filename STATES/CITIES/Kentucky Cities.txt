@@ -1,0 +1,10 @@
+38.47  -82.65  Ashland  41101
+36.97  -86.43  Bowling Green  42101
+39.07  -84.53  Covington  41011
+38.21  -84.97  Frankfort  40601
+37.83  -87.57  Henderson  42419
+38.05  -85.00  Lexington  40502
+38.23  -85.67  Louisville  40201
+36.64  -83.70  Middlesboro  40965
+37.75  -87.17  Owensboro  42301
+37.03  -88.72  Paducah  42001

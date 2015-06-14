@@ -1,0 +1,10 @@
+40.91  -74.17  Paterson  07501
+40.89  -74.05  Hackensack  07601
+40.73  -74.08  Jersey City  07097
+40.72  -74.17  Newark  07101
+40.37  -74.65  Princeton  08540
+40.30  -73.99  Long Branch  07740
+40.22  -74.76  Trenton  08601
+39.93  -75.12  Camden  08101
+39.36  -74.43  Atlantic City  08401
+39.50  -75.03  Vineland  08360

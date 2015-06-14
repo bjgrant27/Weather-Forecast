@@ -1,0 +1,15 @@
+47.61  -122.33  Seattle  98101
+48.75  -122.50  Bellingham  98225
+48.41  -122.38  Mount Vernon  98273
+47.79  -120.86  Leavenworth  98826
+47.67  -117.44  Spokane  99201
+48.02  -123.48  Port Angeles  98362
+47.14  -123.77  Aberdeen  98520
+46.98  -122.87  Olympia  98501
+47.25  -122.44  Tacoma  98401
+46.74  -117.18  Pullman  99163
+46.38  -119.38  Richland  99352
+46.13  -118.36  Walla Walla  99362
+45.68  -122.73  Vancouver  98660
+46.21  -123.06  Longview  98632
+46.63  -120.42  Yakima  98901

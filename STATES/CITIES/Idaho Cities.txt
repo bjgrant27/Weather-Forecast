@@ -1,0 +1,7 @@
+43.57  -116.22  Boise  83701
+47.77  -116.82  Coeur d'Alene  83814
+43.52  -112.07  Idaho Falls  83401
+46.38  -117.02  Lewiston  83501
+42.92  -112.60  Pocatello  83201
+43.50  -114.30  Sun Valley  83353
+42.48  -114.48  Twin Falls  83301

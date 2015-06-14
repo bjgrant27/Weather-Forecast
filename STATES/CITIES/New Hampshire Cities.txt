@@ -1,0 +1,14 @@
+44.49  -71.31  Berlin  03570
+44.72  -71.47  North Stratford  03590
+44.34  -71.53  Whitefield  03598
+44.23  -71.92  Lisbon  03585
+44.10  -71.58  Lincoln  03251
+43.73  -72.24  Hanover  03755
+43.75  -71.36  Moultonborough  03254
+43.35  -72.21  Newport  03773
+43.26  -70.99  Rochester  03839
+43.25  -71.51  Concord  03301
+42.94  -70.84  Hampton  03842
+42.99  -71.47  Manchester  03101
+43.07  -72.41  Walpole  03608
+42.74  -71.45  Nashua  03060

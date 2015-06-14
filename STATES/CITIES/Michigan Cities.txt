@@ -1,0 +1,15 @@
+45.07  -83.57  Alpena  49707
+42.22  -83.75  Ann Arbor  48103
+42.30  -85.23  Battle Creek  49014
+42.13  -86.43  Benton Harbor  49022
+42.42  -83.02  Detroit  48201
+45.73  -87.08  Escanaba  49829
+42.97  -83.75  Flint  48501
+42.27  -84.47  Jackson  49201
+42.23  -85.55  Kalamazoo  49001
+42.77  -84.60  Lansing  48901
+43.17  -86.25  Muskegon  49440
+42.98  -82.46  Port Huron  48060
+43.53  -84.08  Saginaw  48601
+46.36  -84.33  Sault Sainte Marie  49783
+44.73  -85.58  Traverse Cty  49684

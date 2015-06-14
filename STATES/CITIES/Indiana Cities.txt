@@ -1,0 +1,9 @@
+41.66  -85.01  Angola  46703
+39.13  -86.62  Bloomington  47401
+39.17  -85.99  Columbus  47201
+38.05  -87.53  Evansville  47701
+41.00  -85.20  Fort Wayne  46801
+41.62  -87.42  Gary  46401
+39.73  -86.27  Indianapolis  46201
+40.42  -86.89  Lafayette  47901
+39.45  -87.30  Terre Haute  47801

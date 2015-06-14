@@ -1,0 +1,9 @@
+35.78  -78.63  Raleigh  27601
+36.10  -75.73  Kitty Hawk  27949
+36.29  -76.22  Elizabeth City  27906
+36.04  -79.86  Greensboro  27395
+35.59  -82.56  Asheville  28801
+35.23  -80.85  Charlotte  28201
+35.50  -80.67  Kannapolis  28081
+35.07  -78.81  Fayetteville  28301
+34.24  -77.94  Wilmington  28401

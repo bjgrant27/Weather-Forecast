@@ -1,0 +1,9 @@
+38.99  -76.53  Annapolis  21401
+39.29  -76.62  Baltimore  21201
+38.51  -76.08  Cambridge  21613
+39.65  -78.76  Cumberland  21501
+39.43  -76.30  Edgewood  21040
+39.14  -77.19  Gaithersburg  20877
+39.64  -77.72  Hagerstown  21740
+38.35  -75.60  Salisbury  21801
+38.91  -77.02  Washington D.C.  20001

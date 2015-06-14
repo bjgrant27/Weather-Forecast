@@ -1,0 +1,13 @@
+46.62  -92.15  Superior  54880
+44.74  -91.50  Eau Claire  54701
+43.07  -89.38  Madison  53701
+43.68  -89.75  Wisconsin Dells  53965
+43.80  -91.15  La Crosse  54601
+45.06  -89.49  Wausau  54401
+44.48  -88.02  Green Bay  54301
+44.28  -88.38  Appleton  54911
+43.95  -88.54  Oshkosh  54901
+43.71  -87.74  Sheboygan  53081
+43.04  -87.91  Milwaukee  53201
+42.62  -87.83  Kenosha  53140
+42.55  -89.14  Beloit  53511

@@ -1,0 +1,8 @@
+41.83  -71.41  Providence  02901
+42.01  -71.49  Woonsocket  02895
+41.36  -71.79  Westerly  02891
+41.71  -71.45  Warwick  02886
+41.48  -71.32  Newport  02840
+41.81  -71.36  East Providence  02914
+41.87  -71.39  Pawtucket  02860
+41.68  -71.27  Bristol  02809

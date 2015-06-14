@@ -1,0 +1,16 @@
+43.68  -93.37  Albert Lea  56007
+45.87  -95.38  Alexandria  56308
+47.50  -94.93  Bemidji  56601
+46.82  -95.88  Detroit Lakes  56501
+46.83  -92.18  Duluth  55701
+43.65  -94.42  Fairmont  56031
+46.30  -96.07  Fergus Falls  56537
+47.89  -90.33  Grand Marais  55604
+47.22  -93.52  Grand Rapids  55730
+48.57  -93.38  International Falls  56649
+44.46  -95.73  Marshall  56258
+44.83  -93.47  Minneapolis  55401
+43.92  -92.50  Rochester  55901
+45.55  -94.07  Saint Cloud  56301
+44.93  -93.05  Saint Paul  55101
+48.08  -96.12  Thief River Falls  56701

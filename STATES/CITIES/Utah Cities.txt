@@ -1,0 +1,11 @@
+40.76  -111.90  Salt Lake City  84101
+41.69  -111.64  Logan  84321
+41.24  -112.00  Ogden  84201
+40.22  -111.69  Provo  84601
+37.76  -113.22  Cedar City  84720
+38.71  -111.73  Richfield  84701
+37.11  -110.60  Monument Valley  84536
+37.13  -113.80  Saint George  84770
+38.69  -109.26  Moab  84532
+40.66  -111.50  Park City  84060
+40.59  -110.38  Roosevelt  84066

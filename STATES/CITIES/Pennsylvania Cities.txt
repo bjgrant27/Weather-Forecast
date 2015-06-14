@@ -1,0 +1,13 @@
+40.26  -76.88  Harrisburg  17101
+42.12  -80.09  Erie  16501
+41.68  -79.65  Titusville  16354
+40.99  -80.29  New Castle  16101
+40.36  -79.91  Pittsburgh  15122
+41.37  -75.68  Scranton  18501
+40.59  -75.37  Bethlehem  18015
+41.25  -77.02  Williamsport  17701
+40.12  -75.01  Philadelphia  19019
+39.85  -75.37  Chester  19013
+39.83  -77.23  Gettysburg  17325
+40.34  -78.91  Johnstown  15901
+40.55  -78.43  Altoona  16601

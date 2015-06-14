@@ -1,0 +1,14 @@
+41.18  -73.20  Bridgeport  06601
+41.68  -72.94  Bristol  06010
+41.38  -73.46  Danbury  06810
+41.78  -72.66  Hartford  06101
+41.77  -72.51  Manchester  06040
+41.55  -72.66  Middletown  06457
+41.31  -72.92  New Haven  06501
+41.35  -72.11  New London  06320
+41.55  -72.09  Norwich  06360
+41.05  -73.54  Stamford  06901
+41.84  -73.13  Torrington  06790
+41.84  -72.46  Vernon  06066
+41.56  -73.05  Waterbury  06701
+41.70  -72.67  Wethersfield  06109

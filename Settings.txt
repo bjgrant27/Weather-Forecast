@@ -1,0 +1,7 @@
+sw=0
+city=
+state=
+zip=
+sc=1
+type=0
+view=0

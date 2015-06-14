@@ -1,0 +1,14 @@
+35.43  -119.05  Bakersfield  93263
+39.78  -121.85  Chico  95926
+40.80  -124.16  Eureka  95501
+36.77  -119.72  Fresno  93650
+33.93  -118.40  Los Angeles  90001
+33.82  -118.15  Long Beach  90745
+37.73  -122.22  Oakland  94601
+33.83  -116.50  Palm Springs  92262
+38.52  -121.50  Sacramento  94203
+32.82  -117.13  San Diego  92101
+37.78  -122.42  San Francisco  94101
+37.37  -121.92  San Jose  95101
+34.10  -118.33  Hollywood  90028
+38.20  -120.65  San Andreas  95249

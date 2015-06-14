@@ -1,0 +1,14 @@
+29.18  -81.05  Daytona Beach  32114
+26.07  -80.15  Fort Lauderdale  33301
+26.65  -81.87  Fort Myers  33900
+24.54  -81.78  Key West  33040
+25.82  -80.28  Miami  33010
+28.43  -81.32  Orlando  32801
+30.20  -85.68  Panama City  32401
+30.35  -87.32  Pensacola  32501
+27.40  -82.55  Sarasota  34230
+30.38  -84.37  Tallahassee  32301
+27.97  -82.53  Tampa  33601
+28.52  -80.80  Titusville  32780
+26.68  -80.12  West Palm Beach  33401
+27.91  -82.29  Brandon  33511

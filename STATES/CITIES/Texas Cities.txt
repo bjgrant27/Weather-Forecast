@@ -1,0 +1,24 @@
+32.42  -99.68  Abilene  79601
+35.23  -101.70  Amarillo  79101
+30.30  -97.70  Austin  73301
+32.30  -101.45  Big Spring  79720
+25.90  -97.43  Brownsville  78520
+27.77  -97.50  Corpus Christi  78401
+32.73  -96.97  Dallas  75201
+29.37  -100.92  Del Rio  78840
+31.80  -106.40  El Paso  79901
+32.82  -97.35  Fort Worth  76101
+29.27  -94.87  Galveston  77550
+29.97  -95.35  Houston  77001
+32.38  -94.72  Longview  75601
+27.53  -99.47  Laredo  78040
+33.65  -101.82  Lubbock  79401
+26.18  -98.23  Mcallen  78501
+31.95  -102.18  Midland  79701
+31.37  -100.50  San Angelo  76901
+29.53  -98.47  San Antonio  78201
+31.15  -97.42  Temple  76501
+32.37  -95.40  Tyler  75701
+31.62  -97.22  Waco  76701
+33.98  -98.50  Wichita Falls  76301
+31.08  -98.00  Kempner  76539

@@ -1,0 +1,9 @@
+42.04  -93.63  Ames  50010
+40.78  -91.12  Burlington  52601
+41.88  -91.70  Cedar Rapids  52401
+41.21  -95.86  Council Bluffs  51501
+41.52  -90.58  Davenport  52801
+41.53  -93.65  Des Moines  50301
+43.15  -93.33  Mason City  50401
+43.17  -95.80  Sheldon  51201
+42.40  -96.38  Sioux City  51101
